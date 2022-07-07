@@ -1,0 +1,62 @@
+
+  .main{
+    display: flex;
+    
+  }
+  .container{
+ 
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+  margin-top: 50px;
+  
+  }
+input{
+      width: 500px;
+      height: 50px;
+      background-color: white;
+      border: none;
+      padding-left: 15px;
+      margin-top: 15px;
+      margin-left: 20px;
+
+}
+select{
+    width: 513px;
+      height: 50px;
+      background-color: white;
+      border: none;
+      padding-left: 15px;
+      margin-top: 15px;
+      margin-left: 20px;
+}
+#btn{
+
+    margin-left: 150px;
+    margin-top: 20px;
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    font-weight: bolder;
+    font-size: large;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.link{
+     text-decoration: none;
+     color: darkslategrey;
+     font-weight: bolder;
+     font-size: larger;
+}
+.link :visited{
+  color: blue;
+}
+.link:hover{
+  color:  red;
+}
+
+.span{
+  margin-left: 22px;
+}

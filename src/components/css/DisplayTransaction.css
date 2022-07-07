@@ -1,0 +1,25 @@
+.transaction-item{
+    display: flex;
+     background-color: white; 
+    color: black;
+    width: 500px;
+    height: 50px;
+    margin-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    .Income{
+        border-right: 4px solid red;
+        margin-left: 120px;
+    }
+    .Expense{
+        border-right: 4px solid green;
+        margin-left: 120px;
+    }
+    .Equity{
+    
+        border-right: 4px solid orangered;
+        margin-left: 120px;
+    
+    }
+    
